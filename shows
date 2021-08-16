@@ -1,0 +1,416 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwHfWk0-KmPlKxIQhschhTd-_xGT-uxb9bwQ&usqp=CAU" , AC/DC - Full Concert - Berlin 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7uauVGvTF-8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/321/full/van_hallen.png?1598247119" ,  Van Halen - Right Here Right Now Concert
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdBqQ_ZA2Os
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScQqegPqwWauP1trzSYYvnLTJwmy-OVjdxsA&usqp=CAU", Queen Live In Budapest
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1J5XQ-B8iBE
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZpQ9-koPdvFhFQIv9gPNNfgIc_aAzj8z1cw&usqp=CAU", Roger Waters | In The Flesh
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NDTWsuyDYRM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZpQ9-koPdvFhFQIv9gPNNfgIc_aAzj8z1cw&usqp=CAU", Pink Floyd, The Wall | Live In Earl's Court 1980
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LclCKexMjAs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaugTgQYIkGDSj-FlJS-gx3yMidbTDIWpV5Q&usqp=CAU", The Rolling Stones / Live at The Max 1991
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bjJmDT0PkpI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/319/full/dire_straits.png?1598246241", Dire Straits - Wembley, London
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=W-3DG-yoMv0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtFouIzm0U9WtECUQMOH-83PfCcULl1Hdktg&usqp=CAU", Metallica - New York 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nbhqDjIWLpk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIMAdXkvbCVvVegQd26nuV__wBOhWrs8kzEQ&usqp=CAU", Bon Jovi - cleveland 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p2q4COA1qnU
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaqtuxpVRvLJYSzlVmoRtKj06ldYAS0r2bzg&usqp=CAU", Aerosmith - Detroit 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=neFgnugwc14
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrQDzZYQogO-hFQD_o4qYj9IQcjzoyCJl-JA&usqp=CAU" , Scorpions - Wacken 2012
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2y5W3CmtKV0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSDJR0g1aKeuc4Lx69LgSjDhgWQqv2DQxKCw&usqp=CAU", Guns N’ Roses Rock in Rio 2017
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f04de1a004bcaae5be23a8c57ac952afc3faafd
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNWeH7uh7Ylj02y5m3bINEWi9A-JTSMdeKxg&usqp=CAU" , Foo Fighters - Rock am Ring 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pnrx1UV6mdQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/320/full/kiss.png?1598246834" ,  KISS - Monster Tour Zurich 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nP1VyuQOk1g
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu6QZmVPa3jU14Xh-F_hpeXTDaeor57Wn6zg&usqp=CAU",Red Hot Chili Peppers - Live at Slane Castle 2003
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FmrGz8qSyrk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/331/full/a-ha.png?1598247738", A-Ha - Live 2009
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ciWCikMXSw8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/340/full/ROXETTE.png?1598250351" , ROXETTE - Acoustic MTV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=om0YIMaEntQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzmsFzNgPj6lE64BAceYXLZBZpV4-cSNkPyg&usqp=CAU", Simple Minds - Olympia Paris 1995
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7xX6x7rIjJY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQa29s1H0v4Sgl9tGGDmC8lifVJDulbWJa8Qg&usqp=CAU", The Cure - Lollapalooza 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ckdHyuPZY8s
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH1lV9Mrw4_IjDFP4rFJM-JI4wJJIfvLl8vQ&usqp=CAU" ,  The Police - Tokyo Dome Japan 2008
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ecKmcF1_rpY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/341/original/toto.png?1598251540" , Toto - Baloise Session 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=udOqB5vh_68
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3QH65q82uONH0UuAjeaKQGVWQ0RYRSObMKA&usqp=CAU" , U2 - "U22 The Show Never Done"
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TBuK2rgqYUk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/321/full/van_hallen.png?1598247119" , Van Halen - Van Halen - Live on TV - 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jw8kzmDtK3s
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/343/original/p_floid_1.jpg?1598252489" , The Australian Pink Floyd Show - part 1
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PIx9h8D7nnc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/344/original/p_floid_2.png?1598252514" ,  The Australian Pink floyd Show - part 2
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CXH5bPkYBJY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwHfWk0-KmPlKxIQhschhTd-_xGT-uxb9bwQ&usqp=CAU", AC/DC - Argentina 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OKaMitLsLyI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTxQFPprluW2lyd5vrvAoNnQ9VCHOrz7DDmw&usqp=CAU" ,  Iron Maiden 2019 Live Full Concert HD 4K// Legacy of the Beast Tour
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6KdN6_4a8IY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStCIk72M5Yb-lzi9iz3I8nPRPhIOe9zNvtiA&usqp=CAU" ,  Araras SP - Blitz 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pJNQODJhj80
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJO_OikGY5iuFpnFSLvcLqW3LqSlyC_jGqXg&usqp=CAU" ,  Araras SP - Paulo Ricardo 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b0sQuUIVqE4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDX9ccd4EYzOVuSI7BGFzOxgaBKypWeYen3A&usqp=CAU" ,  Araras SP - Biquini Cavadão 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CrDWv4zDXew
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/346/original/titas_real.png?1598253116" ,  Araras SP - Titãs 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agn10ySorNg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_UBbX62zLrSwqNJT-htZ9q_Ekn1kXFeXZgA&usqp=CAU" ,  O Rappa - Planeta Atlantida 2016 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=J5lD_8pwH4I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs22-adIKIPk87xp8t-ZEDPkV65u3TBg9DfA&usqp=CAU" ,  Os Paralamas Do Sucesso - Rock In Rio 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zIOcWXH_Hgg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/348/original/z%C3%A9_Ramalho.png?1598253531" ,  Zé Ramalho - João Rock 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uJwAU4mV7dU
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYGv9mEgTLGt0lSKZ13uVn35rtsONGV8WerQ&usqp=CAU" ,  Camisa de Vênus (480P)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uf12UXwqdTY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTP6EfrZoGGeOd-MUXN0Yy-privgujTDC9jpg&usqp=CAU" ,  Ira! - Memorial da America Latina 2000
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N0UJX6JOAqo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/350/full/Tim_Maia.png?1598253961" , Tim Maia - Ensaio 1997
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BzvWbXJVfVM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ey2o6a8cLpA/T5Yod_d9amI/AAAAAAAAI20/VLhic8QKO34/s500-c/417716_343556522357259_343544169025161_1015068_1038252887_n.jpg" , Gabriel o Pensador - 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Cp6Bpyzrt8w
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYc_nxU5NOh1kcFzw94mGPYEgAX80lz6tPgw&usqp=CAU" ,  Ivete Sangalo - São Paulo 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JZKvO8Vw-LA
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/352/original/martinho.png?1598254421", Martinho Da Vila - Som Brasil
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wo2tpoV8-IU
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTelR9yWuwtdCgIHIkhPA97XUSHXmcS9DikkQ&usqp=CAU" , Sambô - Ensaio 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i6O4SaoBC-4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQigZ0kbxdMRrdstEBeL7yyjgloULW1qv-FOQ&usqp=CAU", Roupa Nova 30 Anos DVD Completo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LylUNsNwBK0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/img/1448673/5/1448673596_1GG.jpg" ,  Pitty - No circo Voador ( DVD )
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HcIGIwniVW0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROQN2VXkj0RG6wXGZkgh9L5sS8vUoOek-HEQ&usqp=CAU" ,  Rita Lee - Multishow Ao Vivo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lr_Gm7oqhUo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtkAkDByWb1S5CoyYWLqQxyBqKDKm7i9DUqA&usqp=CAU", Racionais - Show VMB 2012
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1I6zk8oxHm8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4T2E2nvPM9JDaCOwTQ7jMzL3mSSMPgJJF2w&usqp=CAU", B. B. King - The Royal Albert Hall 2011
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=E5_j91FjsXM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://images-platform.99static.com/6V5-x23LfKHIfQDIdOnWJz7bP0c=/5x0:1276x1271/500x500/top/smart/99designs-contests-attachments/112/112390/attachment_112390395",  Blues Masters - The Crossroads 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eVc66YWZBTo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZGAcmb5bZjoeXDWZHiQ0XIpVROpwMNGlJew&usqp=CAU", Mustang Blues Brothers - SESC
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nBf2EYvmeS0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/356/full/dj_darsh.png?1598255955" , DJ Dash Berlin - Ultra Music Festival Tokyo 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5YfWoVnAS_I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUWlzrQaT4wnEJXKb1u_QxVB3OQuEJlYfhug&usqp=CAU", DJ David Guetta - Tomorrowland Brasil 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sq0GW1nRsYo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxY0MJMJ19zc7cZ2RXlzlEvocmv39__r1XaQ&usqp=CAU" , DJ Hardwell - Ultra Europe 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xX59JmrQHv4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg0h7uogx9HMLu7RkZFrV3y2m5pfQDoJROzQ&usqp=CAU", Alok, Tomorrowland Belgium 2019
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iqt4-cJExWE
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUxFn5G2fSXV-JRtWYYmfE8BCzIpD2y8ALeQ&usqp=CAU" ,  Dream Theater - Wacken 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B0fPY9PPB2E
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNVGVU5257ugiM-VS9zzcjNJVAre8YYvQ6lw&usqp=CAU" ,  Demi Lovato, Iggy Azalea - Certified SuperFanFest
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h9qpdgJgBNg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/847/full/JB.png?1598286626" , Joe Bonamassa - Acoustic Band, Arlington Theater
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yeJC8s09w5I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/863/original/JJ.jpg?1598286916", Jessie J - Rock In Rio 2015 USA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5ro8lU2-0NU
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRN5zUFpBXrafGNoJLwnwqRmxr1MBCqW_odkQ&usqp=CAU", Katy Perry - Rock in Rio 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IletwDmYbEs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRppMOY7-3OrJIaDjFV8YAAPzVXS7rIsh_Rxw&usqp=CAU", Rihanna - Rock in Rio 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9UcaNly1vSA
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6LTsEX2nTOPGG0PkPRxusDMQ8vU3FrKKiNw&usqp=CAU", Lady Gaga - The Born This Way Ball Tour
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aRRFihVrEF8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQy3c5XChWV5oGAxWyag_W4_s2kDcJUhOtyQg&usqp=CAU", Laura Pausini - Viña 2014 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9_4I1p71gKk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSZ-B-x3SKX4IWITAmP5leoTFws6JfRI67Mw&usqp=CAU" , Madonna - Sticky & Sweet Tour
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aiuB_e2QYb8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4WpFXJ8PLpvStpiRVbyxTY2BclfVmvrMn-A&usqp=CAU", Avril Lavigne - Budokan 2005
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RHlFUG0_Wvw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1gGzFE5II8DhCbaRYThIjviPGJYjON92Tpw&usqp=CAU" group-title="Shows" Amy Winehouse - 2008
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8Poc65uzT1s
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ18EFvBknoEfxmRr2zQDxhYRdDamAOTkFWuw&usqp=CAU", RBD - Live In Brasília
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TG7_ynqJwUw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRdAJ9EhyDbtrWLH1wv--IQne9lxw5v5lC_A&usqp=CAU", Rouge - O Sonho de Ser Uma Popstar
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mmkOBgUzD7g
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/937/original/liinel.png?1598289450",Lionel Richie - Viña 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LDAwWe5V77M
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/sku/17482/8/17482812_1GG.jpg", Maroon 5 - Rock In Rio
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cCck1LN0OGM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwSvtm3d7Ah-hGAJqTK2rCuZf0Ro6DFIxX3g&usqp=CAU", Rod Stewart - Viña 2014
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3PQkSCGbmUY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-FeGSE0ZXPIRBINwdGcWjgMxQOYKZobsaUQ&usqp=CAU", Paul McCartney - In Performance at the White House
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5xhwsx4k-XY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61qdZTEnx6L._SY500_.jpg", Elton John - Festival de Viña 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9_5UFmJ7YhM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfzp1NrAKw8kfqV2Dz2Cu3JE03GC3vRRHWdg&usqp=CAU", Petra - Back to The Rock
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tkGywPQEBX8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwjrb2Zlssp1A6t35DGPqYh_wkfcJ5QO-_1Q&usqp=CAU" , Amigos, o Show
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OR4mUQ1b4EQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiEqxeqJD0LsPg4wFRFlruAlmxiXXtmGMc_w&usqp=CAU" ,  Simone & Simaria - Bar das Coleguinhas
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BceLxxx1c-s
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZZ05GgqIh2seoj792nsdPvmPmdyk797RYVA&usqp=CAU", Gian & Giovani - Uma Historia De Sucesso
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8tEcZxArdQU
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ5_Zo3YlTRZ1SUZMpfHC8jDeSANgXN6F8xw&usqp=CAU", Gino & Geno - Ao Vivo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e-1YsqlB2_M
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2-G5kBRbl21XT4xawu5JQ_-JECcbXGbwGlg&usqp=CAU", Gusttavo Lima - Villa Mix Goiânia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tNhBAWGrSd0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSskZhuaMux_X1GHB9aA48j__MQZZ7sPDVJ-w&usqp=CAU", Jorge e Mateus - Villa Mix Goiânia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FaltfQVfSTc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQ37i-r8Ds--30cg1a5XJ8MbCUu8M6lEL-Hw&usqp=CAU", Luan Santana - Villa Mix Goiânia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NR_SQxmeYx8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/975/full/Mar%C3%ADlia_Mendon%C3%A7a.png?1598290994", Marília Mendonça - Salvador Fest 2016
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xDPMuc6usHg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJc3OXChNuhW5mJobI5t7fkLOoDoZbJOVS0A&usqp=CAU", Victor & Leo - Country in Park 2013
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LTEeZbsZ8EY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkCTfo3ZJVIVQlw-4ZJkHY2PTOHRujuAwoUg&usqp=CAU", Zezé Di Camargo e Luciano - Ensaio 2015
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LAnAPD2zZRs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/845/993/original/simone.png?1598291589", Simone & Simaria - Villa Mix Goiânia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_RiiUg87Bew
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
