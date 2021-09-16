@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6RHULatlEIHsfFHQNE8ReEtJ9Em.jpg" , Queen Rock Montreal (2007)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D04BB8997046B8245366E02BA63DE055A03D904&amp;dn=Queen%20-%20Rock%20Montreal%20%26%20Live%20Aid%201981%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwHfWk0-KmPlKxIQhschhTd-_xGT-uxb9bwQ&usqp=CAU" , AC/DC - Full Concert - Berlin 2015
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7uauVGvTF-8
 
